@@ -3,19 +3,18 @@ module.exports = {
     "/": {
       lang: "en-US",
       title: "lowercase",
-      description: "Documentation site for lowercase",
+      description: "Documentation for lowercase app",
     },
   },
-
   themeConfig: {
     repoLabel: "Contribute!",
-    // git repo here... gitlab, github
-    repo: "",
+    repo: "https://github.com/lowercase-app/learn",
     docsDir: "docs",
-    editLinks: true,
-    docsBranch: "dev",
+    editLinks: false,
+    docsBranch: "master",
     editLinkText: "Help us improve this page!",
-    search: false,
+    search: true,
+    // displayAllHeaders: true,
     locales: {
       "/": {
         label: "English",
@@ -29,20 +28,35 @@ module.exports = {
           },
         },
         nav: [
-          { text: "Getting Started", link: "/guide" },
-          { text: "Components", link: "/components/" },
-          // external link to git repo...again
-          { text: "GitHub", link: "" },
+          { text: "Getting Started", link: "/" },
+          { text: "✨lowercase	", link: "https://lowercase.app" },
         ],
-        sidebar: {
-          "/components/": [
-            {
-              title: "Components",
-              collapsable: false,
-              children: ["standard-component"],
-            },
-          ],
-        },
+        sidebar: [
+          {
+            title: "Getting Started",
+            collapsable: false,
+            children: [
+              "guide/documents",
+              "guide/topic-tags",
+              "guide/to-dos",
+              "guide/images",
+              "guide/slides",
+              "guide/shortcuts",
+              "guide/code",
+            ],
+          },
+          {
+            title: "Publishing",
+            collapsable: false,
+            children: ["publishing/documents", "publishing/slideshows"],
+          },
+
+          {
+            title: "User Settings",
+            children: ["user-settings/settings"],
+            collapsable: false,
+          },
+        ],
       },
     },
   },
