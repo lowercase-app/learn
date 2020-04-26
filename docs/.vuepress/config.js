@@ -14,7 +14,7 @@ module.exports = {
     docsBranch: "master",
     editLinkText: "Help us improve this page!",
     search: true,
-    displayAllHeaders: true,
+    // displayAllHeaders: true,
     locales: {
       "/": {
         label: "English",
@@ -35,14 +35,14 @@ module.exports = {
           {
             title: "Documents",
             path: "/documents/",
-            collapsable: false,
+            collapsable: true,
             sidebarDepth: 2,
           },
 
           {
             title: "Topic Tags",
             path: "/topic-tags/",
-            collapsable: false,
+            collapsable: true,
             sidebarDepth: 2,
           },
 
@@ -50,6 +50,11 @@ module.exports = {
             title: "To-dos",
             path: "/to-dos/",
             collapsable: false,
+          },
+
+          {
+            title: "Adding Images",
+            path: "/images/",
           },
 
           {
