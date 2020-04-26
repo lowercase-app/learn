@@ -40,8 +40,9 @@ module.exports = {
               "guide/topic-tags",
               "guide/to-dos",
               "guide/images",
-              "guide/code",
+              "guide/slides",
               "guide/shortcuts",
+              "guide/code",
             ],
           },
           {

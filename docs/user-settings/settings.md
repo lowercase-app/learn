@@ -1,10 +1,12 @@
+---
+sidebarDepth: 3
+---
+
 # Settings
 
-## Subscription
-
-### Cancel subscription
-
 ## Time zone
+
+Setting the correct time zone will display any dates (and days) relative to the time that you'd expect.
 
 ## Document drawer
 
@@ -28,8 +30,30 @@ The editor will focus in on the portion of the document that you're working on a
 
 When you stop typing, the editor does it's best to save the document while not interrupting your flow.
 
-## Change password
+## Subscription
 
-## Manage email
+### Update payment method
+
+You can update your payment method at any time without interrupting your subscription.
+
+### Cancel subscription
+
+You can cancel your subscription but not delete your account (below). A subscription refers the ability to use the editor, view documents, and publish content.
+
+If you cancel, you can still use for the duration of the current billing cycle.
+
+## Account
+
+### Change password
+
+Use this to change your password.
+
+### Manage email
+
+You can have multiple emails addresses associated with your account. This may be helpful if you are in the process of transitioning to a new email yourself.
 
 ## Delete account
+
+Once you delete your account, it's gone. This action will cancel your subscription and delete your account immediately.
+
+If you do this, all of your content will be immediately removed.

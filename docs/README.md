@@ -10,7 +10,11 @@ home: false
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 #   - title: Feature 3
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-# footer: lowercase 2020
+footer: lowercase 2020
 ---
 
-# Getting Started
+# Introduction
+
+## How it works
+
+## Features
