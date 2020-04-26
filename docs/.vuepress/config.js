@@ -10,7 +10,7 @@ module.exports = {
     repoLabel: "Contribute!",
     repo: "https://github.com/lowercase-app/learn",
     docsDir: "docs",
-    editLinks: true,
+    editLinks: false,
     docsBranch: "master",
     editLinkText: "Help us improve this page!",
     search: true,
@@ -28,7 +28,7 @@ module.exports = {
           },
         },
         nav: [
-          { text: "Guide", link: "/" },
+          { text: "Getting Started", link: "/" },
           { text: "✨lowercase	", link: "https://lowercase.app" },
         ],
         sidebar: [
