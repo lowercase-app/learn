@@ -1,3 +1,5 @@
+# Documents
+
 ## Add a new document
 
 Create documents by clicking the New Document button in the document drawer menu. This will create and add a new document to the list underneath the button. The documents in the list are sorted by the last time each was modified.

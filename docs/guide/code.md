@@ -1,4 +1,4 @@
-## Code highlighting syntax theme
+# Code highlighting syntax theme
 
 If the code theme is enabled in your settings, then each document will use the selected code theme by default when a document is created. The theme can be changed by selected a different theme in the document's settings.
 

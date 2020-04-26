@@ -1,4 +1,4 @@
-## Creating topics
+# Creating topics
 
 A topic tag can be inserted into a document by typing `#` directly followed by a topic label. Topics are used as quick identifiers for grouping content and also can be filtered by selecting a given topic in the document drawer.
 

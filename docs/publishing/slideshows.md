@@ -1,4 +1,4 @@
-## Publishing slide presentations
+# Publishing slide presentations
 
 A document becomes a slide presentation when one or more slide content items are in the document. When published, only the content contained in the slide blocks is part of the presentation.
 

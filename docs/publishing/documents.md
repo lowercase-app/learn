@@ -1,4 +1,4 @@
-## Publishing documents
+# Publishing documents
 
 A document can be made public by selecting the publish option in the document's settings. A document can be published or unpublished at any time if it is not locked.
 

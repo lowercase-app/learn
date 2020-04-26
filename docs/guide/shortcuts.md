@@ -1,4 +1,4 @@
-## Editor shortcuts
+# Editor shortcuts
 
 | action             | shortcut command    | markdown shortcut                              | menu bar item                |
 | ------------------ | ------------------- | ---------------------------------------------- | ---------------------------- |

@@ -33,56 +33,26 @@ module.exports = {
         ],
         sidebar: [
           {
-            title: "Documents",
-            path: "/documents/",
-            collapsable: true,
-            sidebarDepth: 2,
-          },
-
-          {
-            title: "Topic Tags",
-            path: "/topic-tags/",
-            collapsable: true,
-            sidebarDepth: 2,
-          },
-
-          {
-            title: "To-dos",
-            path: "/to-dos/",
+            title: "Getting Started",
             collapsable: false,
+            children: [
+              "guide/documents",
+              "guide/topic-tags",
+              "guide/to-dos",
+              "guide/images",
+              "guide/code",
+              "guide/shortcuts",
+            ],
           },
-
           {
-            title: "Adding Images",
-            path: "/images/",
-          },
-
-          {
-            title: "Publishing Documents",
-            path: "/publishing/",
+            title: "Publishing",
             collapsable: false,
+            children: ["publishing/documents", "publishing/slideshows"],
           },
 
-          {
-            title: "Publishing Slide Presentations",
-            path: "/slides/",
-            collapsable: false,
-          },
-
-          {
-            title: "Code Highlight",
-            path: "/code/",
-            collapsable: false,
-          },
-
-          {
-            title: "Shortcut Reference",
-            path: "/shortcuts/",
-            collapsable: false,
-          },
           {
             title: "User Settings",
-            path: "/user-settings/",
+            children: ["user-settings/settings"],
             collapsable: false,
           },
         ],
