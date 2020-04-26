@@ -6,7 +6,7 @@ Create documents by clicking the New Document button in the document drawer menu
 
 Documents and the associated content is saved as you make edits or changes. If you don't want this functionality, the autosave setting can be disabled in your settings.
 
-Documents can be manually saved by using cmd+S ( or control+S ) for the active document. A small dark circle indicator will persist if there have been changes to a document that have not been saved.
+Documents can be manually saved by using `cmd+S` ( or `control+S` ) for the active document. A small dark circle indicator will persist if there have been changes to a document that have not been saved.
 
 ## Editing
 

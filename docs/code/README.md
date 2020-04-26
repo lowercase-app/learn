@@ -8,7 +8,7 @@ Code themes available include _Github_, _GitHub Gist_, _Nord_, _a11y dark_, _a11
 
 ## Programming Languages
 
-Invoke a specific syntax highlight by prefixing the name with ```.
+Invoke a specific syntax highlight by prefixing the name with ` ``` `.
 
 Try to always use a specific command above if applicable to the language
 that you are using. There will always be a corresponding language input rule as
@@ -16,110 +16,23 @@ new languages are added.
 
 If enabled, the programming languages supported are:
 
-#### JavaScript
-
-````
-```javascript
-````
-
-#### SQL
-
-````
-```sql
-````
-
-#### JSON
-
-````
-```json
-````
-
-#### Python
-
-````
-```python
-````
-
-#### Ruby
-
-````
-```ruby
-````
-
-#### Bash
-
-````
-```bash
-````
-
-#### HTTP
-
-````
-```http
-````
-
-#### Go
-
-````
-```go
-````
-
-#### TypeScript
-
-````
-```typescript
-````
-
-#### Diff
-
-````
-```diff
-````
-
-#### YAML
-
-````
-```yaml
-````
-
-#### INI
-
-````
-```ini
-````
-
-#### HTML, XML
-
-````
-```html
-````
-
-#### CSS
-
-````
-```css
-````
-
-#### Markdown
-
-````
-```markdown
-````
-
-#### C++
-
-````
-```cpp
-````
-
-#### PHP
-
-````
-```php
-````
-
-#### Swift
-
-````
-```swift
-````
+| language   | input command     |
+| ---------- | ----------------- |
+| JavaScript | ` ```javascript ` |
+| SQL        | ` ```sql `        |
+| JSON       | ` ```json `       |
+| Python     | ` ```python `     |
+| Ruby       | ` ```ruby `       |
+| Bash       | ` ```bash `       |
+| HTTP       | ` ```http `       |
+| Go         | ` ```go `         |
+| TypeScript | ` ```typescript ` |
+| Diff       | ` ```diff `       |
+| YAML       | ` ```yaml `       |
+| INI        | ` ```ini `        |
+| HTML, XML  | ` ```html `       |
+| CSS        | ` ```css `        |
+| Markdown   | ` ```markdown `   |
+| C++        | ` ```cpp `        |
+| PHP        | ` ```php `        |
+| Swift      | ` ```swift `      |
