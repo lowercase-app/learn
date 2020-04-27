@@ -7,8 +7,8 @@ module.exports = {
     },
   },
   themeConfig: {
-    repoLabel: "Contribute!",
-    repo: "https://github.com/lowercase-app/learn",
+    // repoLabel: "Contribute!",
+    // repo: "https://github.com/lowercase-app/learn",
     docsDir: "docs",
     editLinks: false,
     docsBranch: "master",
