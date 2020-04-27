@@ -5,7 +5,7 @@ A document becomes a slide presentation when one or more slide content items are
 Access and settings for slide presentations are the same as published documents.
 
 ::: warning
-Do not publish content that you want to keep private or content that contains private information that you do not want to share.
+Don't publish content that you want to keep private or content that contains private information that you don't want to share.
 :::
 
 ## Custom URLs

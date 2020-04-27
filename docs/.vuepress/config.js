@@ -7,8 +7,8 @@ module.exports = {
     },
   },
   themeConfig: {
-    repoLabel: "Contribute!",
-    repo: "https://github.com/lowercase-app/learn",
+    // repoLabel: "Contribute!",
+    // repo: "https://github.com/lowercase-app/learn",
     docsDir: "docs",
     editLinks: false,
     docsBranch: "master",
@@ -36,7 +36,7 @@ module.exports = {
             title: "Getting Started",
             collapsable: false,
             children: [
-              "guide/documents",
+              "/",
               "guide/topic-tags",
               "guide/to-dos",
               "guide/images",
