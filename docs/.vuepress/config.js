@@ -36,7 +36,7 @@ module.exports = {
             title: "Getting Started",
             collapsable: false,
             children: [
-              "guide/documents",
+              "/",
               "guide/topic-tags",
               "guide/to-dos",
               "guide/images",
