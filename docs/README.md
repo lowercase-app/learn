@@ -41,7 +41,11 @@ Documents can be locked in each document's settings. It's recommended that you l
 
 ### Publishing a document
 
+A published document (or slides) are public to the entire internet. Once published, the published link can be shared. The changes that you make to the document are immediately reflected in the public version. To publish, click the publish button in the document settings.
+
 ### Specifying a code theme
+
+You can pick a specific code highlighting theme for each document. By default, the theme that you have set in your user settings will be used. Just pick a new theme in the document-specific settings. This can be changed as often as you'd like.
 
 ### Deleting a document
 
