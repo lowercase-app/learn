@@ -5,7 +5,7 @@ A document can be made public by selecting the publish option in the document's 
 Once published, the publicly visible link to the document will be available. The content in the document, published to this link, is available for anyone to see.
 
 ::: warning
-Do not publish content that you want to keep private or content that contains private information that you do not want to share.
+Don't publish content that you want to keep private or content that contains private information that you don't want to share.
 :::
 
 ## Custom URLs

@@ -17,15 +17,15 @@ To save documents, use `cmd+S` ( or `control+S` ) for the active document. A sma
 
 ## Editing
 
-### document titles
+### Documents
 
-Once a document is selected, click on the bold title to edit. By default, the initial title is generated form the content of the document. Changing the title does not change the content of the document. The document will be titled untitled doc if no title is chosen or can be generated from the content.
-
-### documents
-
-To edit documents, type and add different styles or content blocks from the menu bar. If a document is locked, it can not be edited until it's unlocked. If a document is published, then all changes in the document will be _immediately_ available in the published version.
+To edit documents, type and add different styles or content blocks from the menu bar. If a document is locked, it can't be edited until it's unlocked. If a document is published, then all changes in the document will be _immediately_ available in the published version.
 
 All content associated with the document (to-do items, code snippets, etc.) is also removed if the document is deleted.
+
+### Document titles
+
+Once a document is selected, click on the bold title to edit. By default, the initial title is generated form the content of the document. Changing the title doesn't change the content of the document. The document will be titled untitled doc if no title is chosen or can be generated from the content.
 
 ## Duplicate
 
@@ -41,7 +41,7 @@ Documents can be locked in each document's settings. It's recommended that you l
 
 ### Publishing a document
 
-A published document (or slides) are public to the entire internet. Once published, the published link can be shared. The changes that you make to the document are immediately reflected in the public version. To publish, click the publish button in the document settings.
+A published document (or slides) are public to the entire Internet. Once published, the published link can be shared. The changes that you make to the document are immediately reflected in the public version. To publish, click the publish button in the document settings.
 
 ### Specifying a code theme
 
