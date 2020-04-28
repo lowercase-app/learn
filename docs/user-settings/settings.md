@@ -24,11 +24,17 @@ Code themes available include _Github_, _GitHub Gist_, _Nord_, _a11y dark_, _a11
 
 ## Focus mode
 
-The editor will focus in on the portion of the document that you're working on and dim out the surrounding elements.
+The editor will focus on the portion of the document that you're working on and dim out the surrounding elements.
 
 ## Autosave
 
 When you stop typing, the editor does it's best to save the document while not interrupting your flow.
+
+## Notifications
+
+### Weekly to-do update emails
+
+Receive weekly emails that keep you up to date on your to-do progress.
 
 ## Subscription
 
@@ -38,9 +44,9 @@ You can update your payment method at any time without interrupting your subscri
 
 ### Cancel subscription
 
-You can cancel your subscription but not delete your account (below). A subscription refers the ability to use the editor, view documents, and publish content.
+You can cancel your subscription but not delete your account (below). A subscription refers to the ability to use the editor, view documents, and publish content.
 
-If you cancel, you can still use for the duration of the current billing cycle.
+If you cancel, you can still use it for the duration of the current billing cycle.
 
 ## Account
 
@@ -50,7 +56,7 @@ Use this to change your password.
 
 ### Manage email
 
-You can have multiple emails addresses associated with your account. This may be helpful if you are in the process of transitioning to a new email yourself.
+You can have multiple email addresses associated with your account. This may be helpful if you are in the process of transitioning to a new email yourself.
 
 ## Delete account
 

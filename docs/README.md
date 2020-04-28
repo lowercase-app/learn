@@ -19,7 +19,7 @@ To save documents, use `cmd+S` ( or `control+S` ) for the active document. A sma
 
 ### Documents
 
-To edit documents, type and add different styles or content blocks from the menu bar. If a document is locked, it can't be edited until it's unlocked. If a document is published, then all changes in the document will be _immediately_ available in the published version.
+To edit documents, type, and add different styles or content blocks from the menu bar. If a document is locked, it can't be edited until it's unlocked. If a document is published, then all changes in the document will be _immediately_ available in the published version.
 
 All content associated with the document (to-do items, code snippets, etc.) is also removed if the document is deleted.
 
