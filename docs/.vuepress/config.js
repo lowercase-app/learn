@@ -14,7 +14,8 @@ module.exports = {
     docsBranch: "master",
     editLinkText: "Help us improve this page!",
     search: true,
-    // displayAllHeaders: true,
+    smoothScroll: true,
+
     locales: {
       "/": {
         label: "English",
