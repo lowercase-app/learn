@@ -3,7 +3,7 @@ module.exports = {
     "/": {
       lang: "en-US",
       title: "lowercase",
-      description: "Documentation for lowercase app",
+      description: "Documentation for lowercase",
     },
   },
   themeConfig: {
@@ -30,7 +30,7 @@ module.exports = {
         },
         nav: [
           { text: "Getting Started", link: "/" },
-          { text: "✨lowercase	", link: "https://lowercase.app" },
+          { text: "✨lowercase	", link: "https://www.lowercase.app" },
         ],
         sidebar: [
           {
