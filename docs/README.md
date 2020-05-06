@@ -71,7 +71,11 @@ More information on [publishing a document](/publishing/documents.html) or [publ
 
 ### Specifying a code theme
 
-You can pick a specific code highlighting theme for each document. By default, the theme that you have set in your user settings will be used. Just pick a new theme in the document-specific settings. This can be changed as often as you'd like.
+::: tip
+Code syntax highlighting can be enabled in your [user settings](/user-settings/settings.html#code-theme).
+:::
+
+You can pick a specific code highlighting theme for _each document_. By default, the theme that you have set in your user settings will be used. Just pick a new theme in the document-specific settings. This can be changed as often as you'd like.
 
 ### Deleting a document
 

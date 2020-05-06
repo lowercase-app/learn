@@ -1,5 +1,9 @@
 ---
 sidebarDepth: 3
+tags:
+  - github
+  - billing
+  - indexing
 ---
 
 # Settings
@@ -18,9 +22,11 @@ Display the menu bar at the top of the editor. Most of the commands are availabl
 
 ## Code theme
 
-The default syntax highlighting theme for your code snippets.
+Enable or disable code syntax highlighting.
 
-Code themes available include _Github_, _GitHub Gist_, _Nord_, _a11y dark_, _a11y light_, and _Tomorrow Night_.
+Select a default syntax highlighting theme for your code snippets.
+
+Code themes available include _Github_, _GitHub Gist_, _Nord_, _A11Y Dark_, _A11Y Light_, and _Tomorrow Night_.
 
 ## Focus mode
 
@@ -49,7 +55,7 @@ You can update your payment method at any time without interrupting your subscri
 
 ### Cancel subscription
 
-You can cancel your subscription but not delete your account (below). A subscription refers to the ability to use the editor, view documents, and publish content.
+You can cancel your subscription but not [delete your account](#delete-account). A subscription refers to the ability to use the editor, view documents, and publish content.
 
 If you cancel, you can still use it for the duration of the current billing cycle.
 
@@ -65,6 +71,8 @@ You can have multiple email addresses associated with your account. This may be 
 
 ## Delete account
 
-Once you delete your account, it's gone. This action will cancel your subscription and delete your account immediately.
-
+::: danger
 If you do this, all of your content will be immediately removed.
+:::
+
+Once you delete your account, **it's gone**. This action will cancel your subscription and delete your account immediately.
