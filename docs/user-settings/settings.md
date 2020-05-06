@@ -34,7 +34,12 @@ When you stop typing, the editor does it's best to save the document while not i
 
 ### Weekly to-do update emails
 
-Receive weekly emails that keep you up to date on your to-do progress.
+Receive weekly emails that keep you up to date on your [to-do progress](/guide/to-dos.html). The email contains a list of your tasks broken out by:
+
+- Last week
+  - Finished and created
+- This week
+- After this week
 
 ## Subscription
 

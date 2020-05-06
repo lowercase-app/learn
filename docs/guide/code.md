@@ -35,6 +35,8 @@ If enabled, the programming languages supported are:
 | HTML, XML  | ` ```html `       |
 | CSS        | ` ```css `        |
 | Markdown   | ` ```markdown `   |
-| C++        | ` ```cpp `        |
+| C++, C     | ` ```cpp `        |
 | PHP        | ` ```php `        |
 | Swift      | ` ```swift `      |
+| Java       | ` ```java `       |
+| Kotlin     | ` ```kotlin `     |

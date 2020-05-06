@@ -7,7 +7,9 @@ sidebarDepth: 3
 
 ## Add a new document
 
-Create documents by clicking the New Document button in the document drawer menu. This will create and add a new document to the list underneath the button. The documents in the list are sorted by the last time each was modified.
+Create documents by clicking the **New Document** button in the document drawer menu. This will create and add a new document to the list underneath the button. The documents in the list are sorted by the last time each was modified.
+
+![Add new document](/add-new-document.png)
 
 ## Saving
 
@@ -27,6 +29,8 @@ All content associated with the document (to-do items, code snippets, etc.) is a
 
 Once a document is selected, click on the bold title to edit. By default, the initial title is generated form the content of the document. Changing the title doesn't change the content of the document. The document will be titled untitled doc if no title is chosen or can be generated from the content.
 
+![Edit document title](/edit-document-title.png)
+
 ## Duplicate
 
 A document can be duplicated by clicking the duplicate document icon located in the top right of each document. This action will create a new document with the same content as the original.
@@ -35,13 +39,35 @@ When duplicating, all to-do items are reset. This means that any selected due da
 
 ## Document settings
 
+Open the document settings by clicking on the _more_ icon in each document.
+
+![Document settings icon](/document-settings-icon.png)
+
 ### Lock a document from editing
 
 Documents can be locked in each document's settings. It's recommended that you lock documents that are published if you want to avoid any accidental actions. Documents can be locked and unlocked as often as you like. For that reason, we think it's a good practice to lock documents that you don't want to change.
 
+#### Unlocked
+
+![Unlocked document](/unlocked-document.png)
+
+#### Locked
+
+![Locked document ](/locked-document.png)
+
 ### Publishing a document
 
 A published document (or slides) are public to the entire Internet. Once published, the published link can be shared. The changes that you make to the document are immediately reflected in the public version. To publish, click the publish button in the document settings.
+
+More information on [publishing a document](/publishing/documents.html) or [publishing slide presentations](/publishing/slideshows.html).
+
+#### Unpublished document
+
+![Unpublished document](/unpublished-document.png)
+
+#### Published document
+
+![Published document](/published-document.png)
 
 ### Specifying a code theme
 
@@ -49,6 +75,8 @@ You can pick a specific code highlighting theme for each document. By default, t
 
 ### Deleting a document
 
-A document can be deleted by clicking the delete option in the document's settings menu. The document can only be deleted when it's not locked. The document is not available after it's deleted - it's immediately removed.
-
+::: danger
 If a document is published, the public URL and content will no longer be available if the document is deleted.
+:::
+
+A document can be deleted by clicking the delete option in the document's settings menu. The document can only be deleted when it's not locked. The document is not available after it's deleted - **it's immediately removed**.
