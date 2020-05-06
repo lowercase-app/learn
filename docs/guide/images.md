@@ -1,3 +1,9 @@
+---
+tags:
+  - upload
+  - insert
+---
+
 # Adding images
 
 Images can be added to documents by clicking on the context helper in the bottom of the editor.

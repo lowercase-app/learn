@@ -1,3 +1,28 @@
+---
+tags:
+  - markdown
+  - command
+  - menu bar
+  - bold
+  - italic
+  - strikethrough
+  - underline
+  - inline
+  - header
+  - heading
+  - bullet list
+  - ordered list
+  - numbered list
+  - block quote
+  - code
+  - horizontal rule
+  - table
+  - to-do
+  - slide
+  - undo
+  - save
+---
+
 # Editor shortcuts
 
 You can edit and format content a few different ways depending on what makes you happy and productive.
