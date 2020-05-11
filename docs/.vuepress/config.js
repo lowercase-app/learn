@@ -2,7 +2,7 @@ module.exports = {
   locales: {
     "/": {
       lang: "en-US",
-      title: "lowercase Documentation",
+      title: "✨lowercase Documentation",
       description:
         "Documentation for lowercase. The simplest way to make public pages and presentations from your notes and to-dos.",
     },
