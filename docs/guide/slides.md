@@ -8,14 +8,24 @@ Place a slide into a document using the editor bar menu. After that, any content
 
 ![Create slides](/create-slides.png)
 
-## Viewing presentation
+## Viewing presentations
 
 Once the document is [published as slides](/publishing/slideshows.html), open the public link to view. The slides will now be part of an HTML presentation running in the browser.
+
+The below example can be tested in full screen <a href="https://www.lowercase.app/@help/p/722f7883-aa7e-408e-9de7-1e61f1b6473b/" target="_blank">here</a>.
 
 <div style="border-style: solid;
     border-width: 1px;
     border-color: #CCCCCC;
     border-radius: .125rem;"
 >
-    <img src="/published-slideshow.png" alt="Published slideshow" >
+  <iframe width="100%" height="420" scrolling="no" frameborder="0" src="https://www.lowercase.app/@help/p/722f7883-aa7e-408e-9de7-1e61f1b6473b"></iframe>
 </div>
+
+## Embedding presentations in other sites
+
+Slide presentations can be embedded into other sites. This is good for creating a collection or portfolio. To get the embed code, click **Show embed code** in the **Public URL** section located in the [document settings](/#document-settings).
+
+![Document embed code](/document-embed-code.png)
+
+Copy the HTML snippet and place in your site's code to embed the presentation.

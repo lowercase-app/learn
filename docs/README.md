@@ -31,12 +31,6 @@ Once a document is selected, click on the bold title to edit. By default, the in
 
 ![Edit document title](/edit-document-title.png)
 
-## Duplicate
-
-A document can be duplicated by clicking the duplicate document icon located in the top right of each document. This action will create a new document with the same content as the original.
-
-When duplicating, all to-do items are reset. This means that any selected due dates and completed to-do items will be reset
-
 ## Document settings
 
 Open the document settings by clicking on the _more_ icon in each document.
