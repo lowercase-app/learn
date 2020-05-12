@@ -62,4 +62,9 @@ module.exports = {
       },
     },
   },
+  plugins: {
+    sitemap: {
+      hostname: "https://www.lowercase.app",
+    },
+  },
 };
