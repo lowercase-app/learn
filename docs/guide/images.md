@@ -1,4 +1,6 @@
 ---
+description: "Easily add images to your notes documents. Images can be added to documents by dragging & dropping, selecting or pasting them."
+
 tags:
   - upload
   - insert

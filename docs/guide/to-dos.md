@@ -1,9 +1,12 @@
 ---
+description: "To-do items are an easy way to set reminders within your notes. To-dos are created by adding a to-do item from the menu bar and adding content and a due date."
+image: adding-todos.png
 tags:
   - task
   - due date
   - calendar
   - notification
+  - past due
 ---
 
 # Creating & Editing To-dos

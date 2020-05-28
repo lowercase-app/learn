@@ -1,5 +1,9 @@
 ---
+description: "Easily add beautiful code snippets to your notes using a familiar markdown fenced code block. Each block can be language specific and displays in notes and slide presentations."
+image: syntax-highlight.png
 tags:
+  - syntax highlight
+  - fenced code
   - github
   - javascript
   - sql
@@ -25,7 +29,12 @@ tags:
   - kotlin
 ---
 
-# Code highlighting
+# Code syntax highlighting
+
+Easily add beautiful code snippets to your notes using a familiar markdown fenced code block. Each block can be language specific and displays in notes and slide presentations.
+
+![Syntax highlighting](/syntax-highlight.png)
+<small>Example Python syntax highlighting using Github Gist theme.</small>
 
 If the [code theme](/user-settings/settings.html#code-theme) is enabled in your settings, then each document will use the selected code theme by default when a document is created. The theme can be changed by selected a different theme in the document's settings.
 

@@ -1,3 +1,12 @@
+---
+description: "Easily turn your notes document into a slide presentation. A document becomes a slide presentation when one or more slide content items are in the document. When published, only the content contained in the slide blocks is part of the presentation."
+image: create-slides.png
+tags:
+  - slideshow
+  - presentation
+  - slides
+---
+
 # Creating slide presentations
 
 A document becomes a slide presentation when one or more slide content items are in the document. When published, only the content contained in the slide blocks is part of the presentation.

@@ -1,9 +1,15 @@
 ---
+title: "User Settings"
+description: "Settings for using lowercase. Set up lowercase the way that makes you the most productive."
+
 sidebarDepth: 3
 tags:
   - github
   - billing
   - indexing
+  - code theme
+  - focus mode
+  - autosave
 ---
 
 # Settings
@@ -46,6 +52,7 @@ Receive weekly emails that keep you up to date on your [to-do progress](/guide/t
   - Finished and created
 - This week
 - After this week
+- Past due (oh no!)
 
 ## Subscription
 

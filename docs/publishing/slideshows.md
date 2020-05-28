@@ -1,6 +1,9 @@
 ---
+description: "Easily share your slide presentations with a few clicks. A document becomes a slide presentation when one or more slides are in the document. When published, only the content contained in the slide blocks is part of the presentation."
+
 tags:
   - slideshow
+  - share slides
 ---
 
 # Publishing slide presentations

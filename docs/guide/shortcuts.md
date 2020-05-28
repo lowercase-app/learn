@@ -1,4 +1,7 @@
 ---
+title: "Shortcut commands"
+description: "Shortcuts for using lowercase. You can edit and format content a few different ways depending on what makes you happy and productive."
+
 tags:
   - markdown
   - command
