@@ -10,7 +10,6 @@ module.exports = {
   themeConfig: {
     // repoLabel: "Contribute!",
     // repo: "https://github.com/lowercase-app/learn",
-    author: "@lowercase_app",
     twitter: "@lowercase_app",
     docsDir: "docs",
     editLinks: false,
@@ -73,6 +72,10 @@ module.exports = {
         const { $site } = context;
 
         add("twitter:site", $site.themeConfig.twitter);
+        add("twitter:creator", $site.themeConfig.twitter);
+        add("twitter:domain", "https://www.lowercase.app");
+        add("og:locale", "en_US");
+        add("og:image:type", "image/png");
       },
     },
   },
