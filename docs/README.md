@@ -2,7 +2,7 @@
 home: false
 sidebarDepth: 3
 description: "Learn how to easily create, edit, and share note documents."
-image: add-new-document.png
+image: /add-new-document.png
 ---
 
 # Documents

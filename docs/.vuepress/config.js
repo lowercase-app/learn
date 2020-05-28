@@ -10,6 +10,7 @@ module.exports = {
   themeConfig: {
     // repoLabel: "Contribute!",
     // repo: "https://github.com/lowercase-app/learn",
+    domain: "https://learn.lowercase.app",
     twitter: "@lowercase_app",
     docsDir: "docs",
     editLinks: false,
@@ -68,6 +69,8 @@ module.exports = {
       hostname: "https://learn.lowercase.app",
     },
     seo: {
+      image: ($page, $site) =>
+        $site.themeConfig.domain + $page.frontmatter.image,
       customMeta: (add, context) => {
         const { $site } = context;
 
