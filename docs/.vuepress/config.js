@@ -10,6 +10,7 @@ module.exports = {
   themeConfig: {
     // repoLabel: "Contribute!",
     // repo: "https://github.com/lowercase-app/learn",
+    twitter: "@lowercase_app",
     docsDir: "docs",
     editLinks: false,
     docsBranch: "master",
@@ -65,6 +66,17 @@ module.exports = {
   plugins: {
     sitemap: {
       hostname: "https://learn.lowercase.app",
+    },
+    seo: {
+      customMeta: (add, context) => {
+        const { $site } = context;
+
+        add("twitter:site", $site.themeConfig.twitter);
+        add("twitter:creator", $site.themeConfig.twitter);
+        add("twitter:domain", "https://www.lowercase.app");
+        add("og:locale", "en_US");
+        add("og:image:type", "image/png");
+      },
     },
   },
 };

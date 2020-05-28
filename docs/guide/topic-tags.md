@@ -1,7 +1,11 @@
 ---
+description: "Topics are used as quick identifiers for grouping and categorizing content. A topic tag can be inserted into a document by typing # directly followed by a topic label. Once created in a document, a topic can be added to any other document."
+image: add-topic.png
 tags:
   - hashtags
   - categories
+  - topics
+  - tags
 ---
 
 # Creating topic tags

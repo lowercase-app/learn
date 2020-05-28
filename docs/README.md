@@ -1,6 +1,8 @@
 ---
 home: false
 sidebarDepth: 3
+description: "Learn how to easily create, edit, and share note documents."
+image: add-new-document.png
 ---
 
 # Documents
@@ -15,7 +17,7 @@ Create documents by clicking the **New Document** button in the document drawer 
 
 Documents and linked content is saved as you make edits or changes. If you don't want this functionality, the _autosave_ setting can be disabled in your settings.
 
-To save documents, use `cmd+S` ( or `control+S` ) for the active document. A small dark circle indicator will persist if there are unsaved changes in a document.
+To save documents, use `CMD+S` ( or `Control+S` ) for the active document. A small dark circle indicator will persist if there are unsaved changes in a document.
 
 ## Editing
 

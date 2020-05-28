@@ -1,3 +1,12 @@
+---
+description: "Easily share your notes documents with a few clicks. Once published, the publicly visible link to the document will be available. The content in the document, published to this link, is available for anyone to see."
+image: adding-custom-url.png
+tags:
+  - publish
+  - share
+  - custom site
+---
+
 # Publishing documents
 
 ::: warning
