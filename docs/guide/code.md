@@ -1,6 +1,6 @@
 ---
 description: "Easily add beautiful code snippets to your notes using a familiar markdown fenced code block. Each block can be language specific and displays in notes and slide presentations."
-image: /syntax-highlight.png
+image: /syntax-highlight-meta.png
 tags:
   - syntax highlight
   - fenced code

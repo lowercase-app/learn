@@ -70,7 +70,9 @@ module.exports = {
     },
     seo: {
       image: ($page, $site) =>
-        $site.themeConfig.domain + $page.frontmatter.image,
+        $page.frontmatter.image
+          ? $site.themeConfig.domain + $page.frontmatter.image
+          : "",
       customMeta: (add, context) => {
         const { $site } = context;
 
