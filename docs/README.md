@@ -1,8 +1,8 @@
 ---
 home: false
 sidebarDepth: 3
-description: "Learn how to easily create, edit, and share note documents."
-image: add-new-document.png
+description: "Learn how to easily create, edit, and share note documents. Log in, write it down, and keep going!"
+image: /add-new-document.png
 ---
 
 # Documents
