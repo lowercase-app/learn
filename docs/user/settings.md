@@ -14,6 +14,12 @@ tags:
 
 # Settings
 
+## Make profile public
+
+Enable public profile. If you enable this than any documents that you [Add to profile](/publishing/documents.html#adding-a-document-to-your-profile) will display here.
+
+You can turn this **on** or **off** whenever you'd like 😊.
+
 ## Time zone
 
 Setting the correct time zone will display any dates (and days) relative to the time that you'd expect.
