@@ -56,8 +56,8 @@ module.exports = {
           },
 
           {
-            title: "User Settings",
-            children: ["user-settings/settings"],
+            title: "User",
+            children: ["user/dashboard", "user/profile", "user/settings"],
             collapsable: false,
           },
         ],
