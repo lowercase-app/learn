@@ -25,7 +25,6 @@ tags:
   - c++
   - php
   - swift
-  - java
   - kotlin
 ---
 
@@ -74,5 +73,4 @@ If enabled, the programming languages supported are:
 | C++, C     | ` ```cpp `        |
 | PHP        | ` ```php `        |
 | Swift      | ` ```swift `      |
-| Java       | ` ```java `       |
 | Kotlin     | ` ```kotlin `     |
