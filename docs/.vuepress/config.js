@@ -52,7 +52,11 @@ module.exports = {
           {
             title: "Publishing",
             collapsable: false,
-            children: ["publishing/documents", "publishing/slideshows"],
+            children: [
+              "publishing/documents",
+              "publishing/slideshows",
+              "publishing/seo",
+            ],
           },
 
           {
