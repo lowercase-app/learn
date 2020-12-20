@@ -36,4 +36,4 @@ The first 160 characters of the document becomes the page description.
 <meta name="keywords" content="..." />
 ```
 
-Document [topics](/guide/topic-tags.html) are joined together and set in the `<meta keywords="">` tag.
+Document [topics](/guide/topic-tags.html) are joined together and set in the meta `keywords` tag.
