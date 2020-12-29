@@ -65,6 +65,12 @@ More information on [publishing a document](/publishing/documents.html) or [publ
 
 ![Published document](/published-document.png)
 
+### Add document to public profile
+
+Toggle this setting on to add your published document to your public profile page.
+
+![Show document on profile](/show-document-on-profile.png)
+
 ### Specifying a code theme
 
 ::: tip

@@ -19,7 +19,7 @@ Once published, the publicly visible link to the document will be available. The
 
 ## Adding a document to your profile
 
-It's possible to add each document to your [lowercase profile](/user/profile.html). This is a nice way to create a collection of documents shown on your profile when it's enabled.
+It's possible to add each document to your [lowercase profile](/user/profile.html)in the document's settings. This is a nice way to create a collection of documents shown on your profile when it's enabled.
 
 ## Custom URLs
 
