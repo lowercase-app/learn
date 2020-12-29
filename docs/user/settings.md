@@ -20,6 +20,8 @@ Enable public profile. If you enable this than any documents that you [Add to pr
 
 You can turn this **on** or **off** whenever you'd like 😊.
 
+![Make profile public](/make-profile-public.png)
+
 ## Time zone
 
 Setting the correct time zone will display any dates (and days) relative to the time that you'd expect.
@@ -60,17 +62,15 @@ Receive weekly emails that keep you up to date on your [to-do progress](/guide/t
 - After this week
 - Past due (oh no!)
 
-## Subscription
+## Supporting lowercase
 
 ### Update payment method
 
-You can update your payment method at any time without interrupting your subscription.
+You can update your payment method at any time without interrupting your patron subscription.
 
-### Cancel subscription
+### Change subscription
 
-You can cancel your subscription but not [delete your account](#delete-account). A subscription refers to the ability to use the editor, view documents, and publish content.
-
-If you cancel, you can still use it for the duration of the current billing cycle.
+You can change your patron subscription back to a free plan at any point. The change will kick in at the end of the billing cycle.
 
 ## Account
 
@@ -88,4 +88,4 @@ You can have multiple email addresses associated with your account. This may be 
 If you do this, all of your content will be immediately removed.
 :::
 
-Once you delete your account, **it's gone**. This action will cancel your subscription and delete your account immediately.
+Once you delete your account, **it's gone**. This action will remove your patron subscription (if applicable) and delete your account immediately.
