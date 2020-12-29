@@ -15,7 +15,7 @@ The best way to get started with lowercase quickly is to start creating and edit
 
 - [Adding new documents](/guide/documents.html#add-a-new-document)
 - [Edit the document title](/guide/documents.html#document-titles)
-- [View the documents settings](/guide/documents.html#document-settings)
+- [View the document's settings](/guide/documents.html#document-settings)
 - [Lock a document](/guide/documents.html#lock-a-document-from-editing) so that it can't be edited.
 
 ## Creating to-dos within your documents
