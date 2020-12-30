@@ -34,4 +34,4 @@ A topic can be removed from a document by deleting it from the content.
 
 ## Deleting topics
 
-A topic is only removed if it's not referenced in any document.
+A topic is only removed from the side drawer section if it's not referenced in any document.

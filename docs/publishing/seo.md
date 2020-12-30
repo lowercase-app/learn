@@ -20,7 +20,7 @@ When published, portions of your document (or slides) are used to populate page 
 <title>...</title>
 ```
 
-The page title of the published document is set as the [document title](#document-titles).
+The page title of the published document is set as the [document title](/guide/documents.html#document-titles).
 
 ### description
 
@@ -37,3 +37,11 @@ The first 160 characters of the document becomes the page description.
 ```
 
 Document [topics](/guide/topic-tags.html) are joined together and set in the meta `keywords` tag.
+
+## Sitemap
+
+If public, your user profile will be added to the lowercase sitemap to encourage search engines to index the content.
+
+Also, any documents that are made public **and** added to your public profile will be added to the sitemap.
+
+Documents that are **not published** and **not added to a public profile** will not be identified in the generated sitemap.

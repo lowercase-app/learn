@@ -30,6 +30,11 @@ tags:
 
 # Code syntax highlighting
 
+<video width="100%" height="auto" controls>
+  <source src="/lc-syntax-highlight.mp4" type="video/mp4">  
+  Your browser does not support the video tag.
+</video>
+
 Easily add beautiful code snippets to your notes using a familiar markdown fenced code block. Each block can be language specific and displays in notes and slide presentations.
 
 ![Syntax highlighting](/syntax-highlight.png)

@@ -12,7 +12,7 @@ tags:
 Don't publish content that you want to keep private or content that contains private information that you don't want to share.
 :::
 
-A document becomes a slide presentation when one or more slides are in the document. When published, only the content contained in the slide blocks is part of the presentation.
+A document becomes a [slide presentation](/guide/slides.html#creating-slide-presentations) when one or more slides are in the document. When published, only the content contained in the slide blocks is part of the presentation.
 
 Access and settings for slide presentations are the same as published documents.
 
@@ -26,4 +26,4 @@ The public URL can be changed to a custom identifier using the _Custom Public UR
 
 A valid URL contains only letters, numbers, underscores, and hyphens.
 
-This is the same process as setting [custom URLs for documents](/publishing/documents.html).
+This is the same process as setting [custom URLs for documents](/publishing/documents.html#custom-urls).

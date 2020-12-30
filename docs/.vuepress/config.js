@@ -33,14 +33,22 @@ module.exports = {
         },
         nav: [
           { text: "Getting Started", link: "/" },
+          { text: "Guide", link: "/guide/documents" },
+          { text: "Publish", link: "/publishing/documents" },
+          { text: "User", link: "/user/dashboard" },
           { text: "✨lowercase	", link: "https://www.lowercase.app" },
         ],
         sidebar: [
           {
             title: "Getting Started",
             collapsable: false,
+            children: ["/"],
+          },
+          {
+            title: "Guide",
+            collapsable: false,
             children: [
-              "/",
+              "guide/documents",
               "guide/topic-tags",
               "guide/to-dos",
               "guide/images",
@@ -56,6 +64,7 @@ module.exports = {
               "publishing/documents",
               "publishing/slideshows",
               "publishing/seo",
+              "publishing/preview-images",
             ],
           },
 

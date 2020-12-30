@@ -1,82 +1,73 @@
 ---
 home: false
 sidebarDepth: 3
-description: "Learn how to easily create, edit, and share note documents. Log in, write it down, and keep going!"
-image: /add-new-doc-meta.png
+title: "Quick Start"
+description: "Welcome to the lowercase documentation site! The below topics are meant to get you up-and-running fast with lowercase."
+image: /learn-lc-header.png
 ---
 
-# Documents
+![learn lowercase](/learn-lc-header.png)
 
-## Add a new document
+Welcome to the lowercase documentation site! The below topics are meant to get you up-and-running fast with lowercase.
 
-Create documents by clicking the **New Document** button in the document drawer menu. This will create and add a new document to the list underneath the button. The documents in the list are sorted by the last time each was modified.
+## Creating and editing documents
 
-![Add new document](/add-new-document.png)
+The best way to get started with lowercase quickly is to start creating and editing documents.
 
-## Saving
+- [Adding new documents](/guide/documents.html#add-a-new-document)
+- [Edit the document title](/guide/documents.html#document-titles)
+- [View the document's settings](/guide/documents.html#document-settings)
+- [Lock a document](/guide/documents.html#lock-a-document-from-editing) so that it can't be edited.
 
-Documents and linked content is saved as you make edits or changes. If you don't want this functionality, the _autosave_ setting can be disabled in your settings.
+## Creating to-dos within your documents
 
-To save documents, use `CMD+S` ( or `Control+S` ) for the active document. A small dark circle indicator will persist if there are unsaved changes in a document.
+To-dos are a great way to keep track of thoughts, ideas, and deadlines across one or more documents. Also, you can share your to-do progress by publishing a document that contains to-do items.
 
-## Editing
+- [Create and edit to-dos](/guide/to-dos.html#weekly-update-emails)
+- [Receive a weekly email](/user/settings.html#weekly-to-do-update-emails) listing out your to-do progress
 
-### Documents
+## Adding topic tags to content
 
-To edit documents, type, and add different styles or content blocks from the menu bar. If a document is locked, it can't be edited until it's unlocked. If a document is published, then all changes in the document will be _immediately_ available in the published version.
+Topics are an easy way to tag and find content later by filtering and searching.
 
-All content associated with the document (to-do items, code snippets, etc.) is also removed if the document is deleted.
+- [Using topic tags](/guide/topic-tags.html#creating-topic-tags)
 
-### Document titles
+## Configuring your lowercase user settings
 
-Once a document is selected, click on the bold title to edit. By default, the initial title is generated form the content of the document. Changing the title doesn't change the content of the document. The document will be titled untitled doc if no title is chosen or can be generated from the content.
+We set you up with a few default settings but not everyone likes the same setup.
 
-![Edit document title](/edit-document-title.png)
+- [Adjust your user settings](/user/settings.html#make-profile-public)
 
-## Document settings
+## Locking vs. Publishing a document
 
-Open the document settings by clicking on the _more_ icon in each document.
+A _locked_ document is one that can't be edited. A _published_ document is one that has a public URL and can be shared.
 
-![Document settings icon](/document-settings-icon.png)
+Sometimes you may want to lock a document that you've published so that you don't accidentally edit it once it's shared.
 
-### Lock a document from editing
+- [Lock a document](/guide/documents.html#lock-a-document-from-editing) in the document's setting page
+- [Publish a document or slide presentation](/guide/documents.html#publishing-a-document)
 
-Documents can be locked in each document's settings. It's recommended that you lock documents that are published if you want to avoid any accidental actions. Documents can be locked and unlocked as often as you like. For that reason, we think it's a good practice to lock documents that you don't want to change.
+## Create a public profile page
 
-#### Unlocked
+Is it possible to create a public profile with lowercase?? Yes!
 
-![Unlocked document](/unlocked-document.png)
+- [Make your profile public](/user/profile.html)
+- [Publish a document](/guide/documents.html#publishing-a-document)
+- [Make a custom URL for a document](/publishing/documents.html#custom-urls)
+- [Add the document to your public profile](/guide/documents.html#add-document-to-public-profile)
 
-#### Locked
+## Create a public slide presentation from a document
 
-![Locked document ](/locked-document.png)
+Slide presentations are a great way to show off your content.
 
-### Publishing a document
+- [Creating slide presentations](/guide/slides.html#adding-slides)
 
-A published document (or slides) are public to the entire Internet. Once published, the published link can be shared. The changes that you make to the document are immediately reflected in the public version. To publish, click the publish button in the document settings.
+## Embed your published pages into another site
 
-More information on [publishing a document](/publishing/documents.html) or [publishing slide presentations](/publishing/slideshows.html).
+What if you want to embed your slides or document into another site? No problem, you can embed any published content into another site.
 
-#### Unpublished document
+- [Embedding presentations in other sites](/guide/slides.html#embedding-presentations-in-other-sites)
 
-![Unpublished document](/unpublished-document.png)
+## Add syntax highlighting to your code snippets
 
-#### Published document
-
-![Published document](/published-document.png)
-
-### Specifying a code theme
-
-::: tip
-Code syntax highlighting can be enabled in your [user settings](/user-settings/settings.html#code-theme).
-:::
-
-You can pick a specific code highlighting theme for _each document_. By default, the theme that you have set in your user settings will be used. Just pick a new theme in the document-specific settings. This can be changed as often as you'd like.
-
-### Deleting a document
-
-::: danger
-If a document is published, the public URL and content will no longer be available if the document is deleted.
-:::
-
-A document can be deleted by clicking the delete option in the document's settings menu. The document can only be deleted when it's not locked. The document is not available after it's deleted - **it's immediately removed**.
+- [Enable and use syntax highlighting](/guide/code.html#code-syntax-highlighting)

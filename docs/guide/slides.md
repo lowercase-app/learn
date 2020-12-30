@@ -11,6 +11,11 @@ tags:
 
 A document becomes a slide presentation when one or more slide content items are in the document. When published, only the content contained in the slide blocks is part of the presentation.
 
+<video width="100%" height="auto" controls>
+  <source src="/lc-slide-presentation.mp4" type="video/mp4">  
+  Your browser does not support the video tag.
+</video>
+
 ## Adding slides
 
 Place a slide into a document using the editor bar menu. After that, any content placed within that slide section will become a presentation slide when the document is published.
@@ -33,7 +38,7 @@ The below example can be tested in full screen <a href="https://www.lowercase.ap
 
 ## Embedding presentations in other sites
 
-Slide presentations can be embedded into other sites. This is good for creating a collection or portfolio. To get the embed code, click **Show embed code** in the **Public URL** section located in the [document settings](/#document-settings).
+Slide presentations can be embedded into other sites. This is good for creating a collection or portfolio. To get the embed code, click **Show embed code** in the **Public URL** section located in the [document settings](/guide/documents.html#document-settings).
 
 ![Document embed code](/document-embed-code.png)
 
