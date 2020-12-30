@@ -1,11 +1,12 @@
 ---
 home: false
 sidebarDepth: 3
+title: "Quick Start"
 description: "Welcome to the lowercase documentation site! The below topics are meant to get you up-and-running fast with lowercase."
-image: /add-new-doc-meta.png
+image: /learn-lc-header.png
 ---
 
-# Quick start topics
+![learn lowercase](/learn-lc-header.png)
 
 Welcome to the lowercase documentation site! The below topics are meant to get you up-and-running fast with lowercase.
 
