@@ -9,7 +9,7 @@ image: /add-new-doc-meta.png
 
 Welcome to the lowercase documentation site! The below topics are meant to get you up-and-running fast with lowercase.
 
-## Creating and Editing documents
+## Creating and editing documents
 
 The best way to get started with lowercase quickly is to start creating and editing documents.
 
