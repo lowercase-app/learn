@@ -1,7 +1,7 @@
 ---
 home: false
 sidebarDepth: 3
-description: "Learn how to easily create, edit, and share note documents. Log in, write it down, and keep going!"
+description: "Welcome to the lowercase documentation site! The below topics are meant to get you up-and-running fast with lowercase."
 image: /add-new-doc-meta.png
 ---
 
@@ -29,7 +29,7 @@ To-dos are a great way to keep track of thoughts, ideas, and deadlines across on
 
 Topics are an easy way to tag and find content later by filtering and searching.
 
--[Using topic tags](/guide/topic-tags.html#creating-topic-tags)
+- [Using topic tags](/guide/topic-tags.html#creating-topic-tags)
 
 ## Configuring your lowercase user settings
 
@@ -43,7 +43,7 @@ A _locked_ document is one that can't be edited. A _published_ document is one t
 
 Sometimes you may want to lock a document that you've published so that you don't accidentally edit it once it's shared.
 
-- [Lock a document](/guide/documents.html#lock-a-document-from-editing) in the document setting's page
+- [Lock a document](/guide/documents.html#lock-a-document-from-editing) in the document's setting page
 - [Publish a document or slide presentation](/guide/documents.html#publishing-a-document)
 
 ## Create a public profile page
