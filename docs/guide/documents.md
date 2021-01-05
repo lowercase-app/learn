@@ -83,7 +83,7 @@ You can pick a specific code highlighting theme for _each document_. By default,
 
 All of the images in your document will be listed in this section. If deleted, the image will be removed from the document.
 
-Also, an individual image can be selected as the document's [preview image](/publishing/preview-images.html). A preview image is show alongside the document summary in your user dashboard and public profile (if the document is added to the profile).
+Also, an individual image can be selected as the document's [preview image](/publishing/preview-images.html). A preview image is shown alongside the document summary in your user dashboard and public profile (if the document is added to the profile).
 
 ### Deleting a document
 
