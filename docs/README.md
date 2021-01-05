@@ -23,7 +23,7 @@ The best way to get started with lowercase quickly is to start creating and edit
 
 To-dos are a great way to keep track of thoughts, ideas, and deadlines across one or more documents. Also, you can share your to-do progress by publishing a document that contains to-do items.
 
-- [Create and edit to-dos](/guide/to-dos.html#weekly-update-emails)
+- [Create and edit to-dos](/guide/to-dos.html#creating-editing-to-dos)
 - [Receive a weekly email](/user/settings.html#weekly-to-do-update-emails) listing out your to-do progress
 
 ## Adding topic tags to content
