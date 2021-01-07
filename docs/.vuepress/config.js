@@ -23,7 +23,7 @@ module.exports = {
       "/": {
         label: "English",
         selectText: "Languages",
-        lastUpdated: "Last Updated",
+        //lastUpdated: "Last Updated",
         // service worker is configured but will only register in production
         serviceWorker: {
           updatePopup: {
