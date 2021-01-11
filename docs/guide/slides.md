@@ -33,7 +33,7 @@ The below example can be tested in full screen <a href="https://www.lowercase.ap
     border-color: #CCCCCC;
     border-radius: .125rem;"
 >
-  <iframe width="100%" height="420" scrolling="no" frameborder="0" src="https://www.lowercase.app/@help/p/722f7883-aa7e-408e-9de7-1e61f1b6473b"></iframe>
+  <iframe width="100%" height="420" scrolling="no" frameborder="0" src="https://www.lowercase.app/@help/p/722f7883-aa7e-408e-9de7-1e61f1b6473b/"></iframe>
 </div>
 
 ## Embedding presentations in other sites
