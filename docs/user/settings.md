@@ -50,6 +50,10 @@ The editor will focus on the portion of the document that you're working on and 
 
 When you stop typing, the editor does it's best to save the document while not interrupting your flow.
 
+## Export data
+
+Exports all of your data into Markdown files. The documents will be in Markdown format and the to-dos will be in a separate CSV files. Your data will still be available in lowercase after you export it.
+
 ## Notifications
 
 ### Weekly to-do update emails
@@ -64,13 +68,13 @@ Receive weekly emails that keep you up to date on your [to-do progress](/guide/t
 
 ## Supporting lowercase
 
-### Update payment method
+### Subscribe to lowercase
 
-You can update your payment method at any time without interrupting your patron subscription.
+You can support lowercase by subscribing to the _Supporter_ plan. This helps keep the lights on and the servers running.
 
 ### Change subscription
 
-You can change your patron subscription back to a free plan at any point. The change will kick in at the end of the billing cycle.
+You can change your _Supporter_ subscription back to a free plan at any point. The change will kick in at the end of the billing cycle. Once you billing cycle ends, you will no longer have access to the _Supporter_ features.
 
 ## Account
 
@@ -89,3 +93,7 @@ If you do this, all of your content will be immediately removed.
 :::
 
 Once you delete your account, **it's gone**. This action will remove your patron subscription (if applicable) and delete your account immediately.
+
+If you currently have a subscription, you will need to cancel it first before the account can be deleted.
+
+If you have any questions or concerns, please contact us @ lowercasehq@gmai.com.
